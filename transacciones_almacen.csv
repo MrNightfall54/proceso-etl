@@ -1,0 +1,101 @@
+id_transaccion,producto,cantidad,precio_unitario,fecha_registro,correo_empleado
+101,Tarjeta Grafica RTX 4060,2,1450.00,2026-03-02,rosa.mamani@unsa.edu.pe
+102,Disco SSD 1tb,4,350.00,2026-03-15,CARLOS.RUIZ@UNSA.EDU.PE
+103,Router Wi-Fi 6,2,280.00,2026/04/13,rosa.mamani@unsa.edu.pe
+104,Microfono USB Streaming,2,320.00,07-04-2026,PEDRO.FLORES@UNSA.EDU.PE
+105,  laptop lenovo i5  ,1,2500.50,2026-03-06,ana.torres@unsa.edu.pe
+106,Monitor 24 pulgadas,1,650.00,2026/04/05,ANA.TORRES@UNSA.EDU.PE
+107,ROUTER WI-FI 6,4,280.00,2026-03-24,LUCIA.PAREDES@UNSA.EDU.PE
+108,Hub USB C,1,55.00,12/04/2026,JORGE.TEJADA@UNSA.EDU.PE
+109,Impresora Multifuncional,7,850.00,2026-04-12,MIGUEL.ANGULO@UNSA.EDU.PE
+110,  mouse inalambrico  ,6,45.00,07-03-2026,miguel.angulo@unsa.edu.pe
+111,Audifonos Gamer,4,180.00,2026-03-08,miguel.angulo@unsa.edu.pe
+112,Audifonos Gamer,0,180.00,2026-03-02,ELENA.VARGAS@UNSA.EDU.PE
+113,Silla Ergonomica,5,750.00,2026-04-06,JORGE.TEJADA@UNSA.EDU.PE
+114,Webcam Full HD,1,110.00,2026-03-22,LUIS.QUISPE@UNSA.EDU.PE
+115,  mouse inalambrico  ,3,45.00,2026/03/10,MIGUEL.ANGULO@UNSA.EDU.PE
+116,Memoria RAM 16gb,3,220.00,2026-03-24,sofia.mendoza@unsa.edu.pe
+117,TABLET 10 PULGADAS,4,950.00,2026-04-15,LUIS.QUISPE@UNSA.EDU.PE
+118,Router Wi-Fi 6,5,280.00,2026/04/10,JAVIER.ROJAS@UNSA.EDU.PE
+119,Silla Ergonomica,7,750.00,08-03-2026,CLAUDIA.RAMOS@UNSA.EDU.PE
+120,  hub usb c  ,2,55.00,2026-03-02,CLAUDIA.RAMOS@UNSA.EDU.PE
+121,Webcam Full HD,7,110.00,2026-03-29,JUAN.PEREZ@UNSA.EDU.PE
+122,TECLADO MECANICO RGB,1,120.00,2026/03/24,miguel.angulo@unsa.edu.pe
+123,TARJETA GRAFICA RTX 4060,5,1450.00,08-04-2026,JORGE.TEJADA@UNSA.EDU.PE
+124,Disco SSD 1tb,6,350.00,2026-04-02,SOFIA.MENDOZA@UNSA.EDU.PE
+125,Laptop Lenovo i5,-2,2500.50,14-03-2026,juan.perez@unsa.edu.pe
+126,  webcam full hd  ,2,110.00,2026-03-10,miguel.angulo@unsa.edu.pe
+127,TABLET 10 PULGADAS,7,950.00,2026/03/29,carlos.ruiz@unsa.edu.pe
+128,Monitor 24 pulgadas,1,650.00,10-03-2026,ROSA.MAMANI@UNSA.EDU.PE
+129,Hub USB C,1,55.00,2026-04-03,maria.gomez@unsa.edu.pe
+130,  router wi-fi 6  ,8,280.00,2026-03-15,ana.torres@unsa.edu.pe
+131,Laptop Lenovo i5,5,2500.50,2026/03/12,MIGUEL.ANGULO@UNSA.EDU.PE
+132,TARJETA GRAFICA RTX 4060,3,1450.00,25-03-2026,elena.vargas@unsa.edu.pe
+133,Silla Ergonomica,5,750.00,2026-03-27,JAVIER.ROJAS@UNSA.EDU.PE
+134,Impresora Multifuncional,7,850.00,01-04-2026,DAVID.CONDORI@UNSA.EDU.PE
+135,  memoria ram 16gb  ,4,220.00,2026-03-19,miguel.angulo@unsa.edu.pe
+136,Microfono USB Streaming,6,320.00,2026-03-23,rosa.mamani@unsa.edu.pe
+137,TECLADO MECANICO RGB,1,120.00,2026/03/09,claudia.ramos@unsa.edu.pe
+138,Webcam Full HD,1,110.00,21-03-2026,JUAN.PEREZ@UNSA.EDU.PE
+139,Impresora Multifuncional,8,850.00,2026-03-20,carlos.ruiz@unsa.edu.pe
+140,  disco ssd 1tb  ,2,350.00,2026-03-12,carlos.ruiz@unsa.edu.pe
+141,Router Wi-Fi 6,6,280.00,2026-04-02,ANA.TORRES@UNSA.EDU.PE
+142,TABLET 10 PULGADAS,5,950.00,2026/04/05,miguel.angulo@unsa.edu.pe
+143,Tablet 10 pulgadas,8,950.00,05-03-2026,ELENA.VARGAS@UNSA.EDU.PE
+144,Mouse Inalambrico,2,45.00,2026-03-20,elena.vargas@unsa.edu.pe
+145,  router wi-fi 6  ,6,280.00,2026-03-10,jorge.tejada@unsa.edu.pe
+146,Audifonos Gamer,2,180.00,2026-03-25,sofia.mendoza@unsa.edu.pe
+147,AUDIFONOS GAMER,3,180.00,2026/04/06,carlos.ruiz@unsa.edu.pe
+148,Hub USB C,1,55.00,04-04-2026,MIGUEL.ANGULO@UNSA.EDU.PE
+149,Tablet 10 pulgadas,5,950.00,2026-03-09,david.condori@unsa.edu.pe
+150,  silla ergonomica  ,6,750.00,2026-03-24,miguel.angulo@unsa.edu.pe
+151,Hub USB C,6,55.00,2026-03-08,LUIS.QUISPE@UNSA.EDU.PE
+152,TECLADO MECANICO RGB,3,120.00,2026/03/17,elena.vargas@unsa.edu.pe
+153,TARJETA GRAFICA RTX 4060,8,1450.00,10-04-2026,LUCIA.PAREDES@UNSA.EDU.PE
+154,Silla Ergonomica,6,750.00,2026-04-11,ELENA.VARGAS@UNSA.EDU.PE
+155,  monitor 24 pulgadas  ,5,650.00,2026-03-07,miguel.angulo@unsa.edu.pe
+156,Microfono USB Streaming,6,320.00,2026-03-31,lucia.paredes@unsa.edu.pe
+157,MOUSE INALAMBRICO,7,45.00,2026/03/09,miguel.angulo@unsa.edu.pe
+158,Impresora Multifuncional,4,850.00,31-03-2026,ANA.TORRES@UNSA.EDU.PE
+159,Audifonos Gamer,2,180.00,2026-03-18,david.condori@unsa.edu.pe
+160,  disco ssd 1tb  ,8,350.00,2026-03-16,miguel.angulo@unsa.edu.pe
+161,Monitor 24 pulgadas,8,650.00,2026-03-08,ANA.TORRES@UNSA.EDU.PE
+162,DISCO SSD 1TB,2,350.00,2026/04/05,miguel.angulo@unsa.edu.pe
+163,Impresora Multifuncional,4,850.00,02-04-2026,ROSA.MAMANI@UNSA.EDU.PE
+164,Disco SSD 1tb,4,350.00,2026-03-09,rosa.mamani@unsa.edu.pe
+165,  monitor 24 pulgadas  ,8,650.00,2026-03-03,miguel.angulo@unsa.edu.pe
+166,Memoria RAM 16gb,6,220.00,2026-03-04,carlos.ruiz@unsa.edu.pe
+167,TARJETA GRAFICA RTX 4060,3,1450.00,2026/03/17,miguel.angulo@unsa.edu.pe
+168,Impresora Multifuncional,5,850.00,20-03-2026,DAVID.CONDORI@UNSA.EDU.PE
+169,Disco SSD 1tb,3,350.00,2026-04-06,javier.rojas@unsa.edu.pe
+170,  silla ergonomica  ,1,750.00,2026-03-08,miguel.angulo@unsa.edu.pe
+171,Audifonos Gamer,6,180.00,2026-03-06,LUCIA.PAREDES@UNSA.EDU.PE
+172,ROUTER WI-FI 6,7,280.00,2026/03/14,miguel.angulo@unsa.edu.pe
+173,Tablet 10 pulgadas,1,950.00,10-04-2026,JORGE.TEJADA@UNSA.EDU.PE
+174,Audifonos Gamer,7,180.00,2026-04-03,javier.rojas@unsa.edu.pe
+175,  laptop lenovo i5  ,,2500.50,2026-03-17,miguel.angulo@unsa.edu.pe
+176,Hub USB C,2,55.00,2026-03-10,elena.vargas@unsa.edu.pe
+177,MOUSE INALAMBRICO,7,45.00,2026/03/24,miguel.angulo@unsa.edu.pe
+178,Monitor 24 pulgadas,6,650.00,23-03-2026,JUAN.PEREZ@UNSA.EDU.PE
+179,Webcam Full HD,1,110.00,2026-03-04,ana.torres@unsa.edu.pe
+180,  tarjeta grafica rtx 4060  ,4,1450.00,2026-03-09,miguel.angulo@unsa.edu.pe
+181,Impresora Multifuncional,3,850.00,2026-03-22,LUIS.QUISPE@UNSA.EDU.PE
+182,TECLADO MECANICO RGB,1,120.00,2026/03/23,miguel.angulo@unsa.edu.pe
+183,Tablet 10 pulgadas,4,950.00,24-03-2026,MARIA.GOMEZ@UNSA.EDU.PE
+184,Hub USB C,3,55.00,2026-03-28,carlos.ruiz@unsa.edu.pe
+185,  router wi-fi 6  ,2,280.00,2026-03-19,miguel.angulo@unsa.edu.pe
+186,Disco SSD 1tb,3,350.00,2026-03-25,rosa.mamani@unsa.edu.pe
+187,IMPRESORA MULTIFUNCIONAL,5,850.00,2026/04/13,miguel.angulo@unsa.edu.pe
+188,Webcam Full HD,6,110.00,16-03-2026,JORGE.TEJADA@UNSA.EDU.PE
+189,Hub USB C,4,55.00,2026-03-26,elena.vargas@unsa.edu.pe
+190,  audifonos gamer  ,5,180.00,2026-03-08,miguel.angulo@unsa.edu.pe
+191,Laptop Lenovo i5,4,2500.50,2026-03-03,JUAN.PEREZ@UNSA.EDU.PE
+192,MEMORIA RAM 16gb,7,220.00,2026/03/23,miguel.angulo@unsa.edu.pe
+193,Microfono USB Streaming,3,320.00,30-03-2026,JORGE.TEJADA@UNSA.EDU.PE
+194,Webcam Full HD,5,110.00,2026-03-12,luis.quispe@unsa.edu.pe
+195,  tarjeta grafica rtx 4060  ,4,1450.00,2026-03-05,miguel.angulo@unsa.edu.pe
+196,Monitor 24 pulgadas,8,650.00,2026-03-23,rosa.mamani@unsa.edu.pe
+197,ROUTER WI-FI 6,4,280.00,2026/03/24,miguel.angulo@unsa.edu.pe
+198,Microfono USB Streaming,6,320.00,24-03-2026,DAVID.CONDORI@UNSA.EDU.PE
+199,Mouse Inalambrico,5,45.00,2026-03-29,maria.gomez@unsa.edu.pe
+200,  audifonos gamer  ,3,180.00,2026-03-15,miguel.angulo@unsa.edu.pe
