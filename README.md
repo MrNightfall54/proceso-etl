@@ -1,0 +1,1 @@
+# Implementación de un ETL de transacciones de almacen
